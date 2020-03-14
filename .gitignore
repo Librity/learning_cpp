@@ -1,0 +1,23 @@
+# Created by https://www.gitignore.io/api/c,c++
+# Edit at https://www.gitignore.io/?templates=c,c++
+
+### C++ ###
+# Prerequisites
+
+# Compiled Object files
+*.slo
+
+# Precompiled Headers
+
+# Compiled Dynamic libraries
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+
+# Executables
+
+# End of https://www.gitignore.io/api/c,c++
