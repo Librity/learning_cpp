@@ -6,6 +6,8 @@
 - https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M
 - http://cplusplus.happycodings.com/code-snippets/
 - https://simplesnippets.tech/courses/cpp-programming-tutorials-for-beginners/
+- https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2
+- https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT
 
 ### OpenGL
 
